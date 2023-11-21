@@ -1,0 +1,46 @@
+.calc{
+    width: 400px;
+    height: 550px;
+    background: rgb(50, 49, 49);
+    margin-left: 400px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 20px 5px rgb(80, 79, 79) inset;
+}
+#screen{
+    width: 90%;
+    height: 50px;
+    margin-left: 16px;
+    margin-top: 30px;
+    pointer-events: none;
+}
+.btn{
+    width: 60px;
+    height: 45px;
+    margin-left: 32px;
+    margin-top: 30px;
+    background-color: rgb(252, 250, 249);
+    color: black;
+}
+.img{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 30px;
+}
+.img img{
+    width: 100%;
+    height: auto;
+}
+.output{
+    border: 5px solid black;
+    margin-left: 20px;
+    box-shadow: 5px 10px 20px 5px rgb(41, 40, 40) inset;
+    width: 90%;
+    height: 90px;
+    background-color: rgb(58, 58, 58);
+    border: 5px;
+    border-color: black;
+}
+button{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
