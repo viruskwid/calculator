@@ -44,3 +44,6 @@
 button{
     font-family: 'Kdam Thmor Pro', sans-serif;
 }
+button:hover{
+    background-color:  rgb(151, 148, 148);
+}
